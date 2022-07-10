@@ -1,12 +1,7 @@
-### Hi there 👋 Here is what I am working on
+### 👋 I'm Yi Wei
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ... data science projects
-- 🌱 I’m currently learning ... data science algorithms 
-- 👯 I’m looking to collaborate on ... data science projects
-- 🤔 I’m looking for help with ... natural language processing
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am from Singapore!
+I am an economist working on climate change, with a keen interest in developing artificial intelligence and machine learning. An economist by training, I am well-versed in advanced econometrics, Bayesian statistics, as well as algorithms and programming; my interest in data science topics further led me to explore the synergies with machine learning and deep learning. I graduated with a BSc Economics degree from the London School of Economics and Political Science.
+
+<b>Feel free to browse my projects!</b>
